@@ -22,3 +22,4 @@ cursor-invert-fg-bg = true
 # background-opacity = 0.90
 
 keybind = super+shift+comma=reload_config
+keybind = command+k=text:\x0c
